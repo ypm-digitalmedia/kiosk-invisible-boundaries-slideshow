@@ -1,0 +1,1 @@
+#kiosk-invisible-boundaries-slideshow
